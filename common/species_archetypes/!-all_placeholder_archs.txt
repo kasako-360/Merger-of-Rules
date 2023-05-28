@@ -57,6 +57,10 @@ WV_OBJECT = { uses_modifiers = no }
 # Warship Girls R And MIST Species
 WARSHIPGIRL = { uses_modifiers = no }
 SHENHAI = { uses_modifiers = no }
+# Colourful
+ELF = { uses_modifiers = no }
+Magical_Bitch = { uses_modifiers = no }
+Magical_Girl = { uses_modifiers = no }
 # Misc
 NANITES_CROP = { uses_modifiers = no }
 UNITED_FLEET = { uses_modifiers = no }
